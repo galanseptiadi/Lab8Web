@@ -41,16 +41,13 @@ Hasil browser
 
 
 Menambahkan data create Buat file baru dengan nama tambah.php
-image
-
-Menambahkan data
 ![image](https://user-images.githubusercontent.com/101730390/170076608-0b8d6c06-b396-4cd5-9497-65dd9cbdc63c.png)
 ![image](https://user-images.githubusercontent.com/101730390/170076661-08196058-1c19-49dc-a210-ebe82252f6db.png)
 ![image](https://user-images.githubusercontent.com/101730390/170079138-0531071d-29d4-45cd-9a04-390bc5c328f8.png)
 
 
 
-Hasil beowser
+Hasil browser
 
 ![image](https://user-images.githubusercontent.com/101730390/170079206-e5d5fb16-9fa8-4870-92fb-ca9c5d91b46c.png)
 
